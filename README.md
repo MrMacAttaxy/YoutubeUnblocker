@@ -17,7 +17,7 @@ Killing lanschool (air) is easy (**only on chrome**)
 Go to your side bar and right click on lanschool air, then press close. The app will open back up but it will say "**Not Connected**" (Which means its off)
 # Extension killer
 Go to https://github.com/Egduffuu/ExtHanger/blob/main/maincontent.html (Not Mine) and download the maincontent.html file then open it. After you open it select your extension and press hang, Then follow the instructions below the hang button at the bottom of the page.
-#Unblocked Website
+# Unblocked Website
 Use either vercel.ciom to host github files or use replit to host it (Replit is not the best hosting platform, Use vercel is its not blocked) If the vercel.com website is blocked 
 try using a proxy or a diffrent device to generate links with a diffrent sub-domain (and it is probaly unblocked) You can use ArtClass v4, or Interstellar, Or Snorlaxes Cave, 
 or mostly anything on github.
