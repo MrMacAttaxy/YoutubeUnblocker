@@ -11,7 +11,7 @@ Go to google docs, create a google doc, and put your youtube link into your docs
 Use a proxy like surfskip (Probaly the best proxy out there). Then type https://youtube.com/ into the url bar **INSIDE THE PROXY**. Here is a link https://technologyhelp.afro2.com.br/ (Free but Might be Down) or https://251.12.49.34.bc.googleusercontent.com/ (Premium)
 You can get more links here - https://links.surfskip.com
 # More stuff
-More school stuff I thought that helped me down below\
+More school stuff I thought that helped me down below :)
 # Lanschool Air Disable (how they see your browser)
 Killing lanschool (air) is easy (**only on chrome**)
 Go to your side bar and right click on lanschool air, then press close. The app will open back up but it will say "**Not Connected**" (Which means its off)
